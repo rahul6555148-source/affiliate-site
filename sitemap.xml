@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
    <url>
-      <loc>https://yourdomain.com/</loc>
+      <loc>https://affiliate-site-liart.vercel.app/</loc>
       <priority>1.00</priority>
    </url>
 
    <url>
-      <loc>https://yourdomain.com/review.html</loc>
+      <loc>https://affiliate-site-liart.vercel.app/index.html</loc>
+      <priority>0.90</priority>
+   </url>
+
+   <url>
+      <loc>https://affiliate-site-liart.vercel.app/blog.html</loc>
       <priority>0.80</priority>
    </url>
+
+   <url>
+      <loc>https://affiliate-site-liart.vercel.app/power-bank.html</loc>
+      <priority>0.80</priority>
+   </url>
+
+   <url>
+      <loc>https://affiliate-site-liart.vercel.app/chargers.html</loc>
+      <priority>0.80</priority>
+   </url>
+
+   <url>
+      <loc>https://affiliate-site-liart.vercel.app/earbuds.html</loc>
+      <priority>0.80</priority>
+   </url>
+
+   <url>
+      <loc>https://affiliate-site-liart.vercel.app/accessories.html</loc>
+      <priority>0.80</priority>
+   </url>
+
 </urlset>
